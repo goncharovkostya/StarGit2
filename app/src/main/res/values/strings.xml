@@ -5,4 +5,5 @@
     <string name="footer_header">Вы нажали на кнопочку</string>
     <string name="counter">0</string>
     <string name="footer_footer">раз(а)</string>
+    <string name="gorox">ГороХ!</string>
 </resources>
