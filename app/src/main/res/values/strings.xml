@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">StarGit2</string>
+    <string name="app_name">THIS_IS_CLICKER</string>
+    <string name="header">Кликер номер один в мире</string>
+    <string name="button_text">Нажми меня, детка!</string>
+    <string name="footer_header">Вы нажали на кнопочку</string>
+    <string name="counter">0</string>
+    <string name="footer_footer">раз(а)</string>
+    <string name="gorox">ГороХ!</string>
 </resources>
